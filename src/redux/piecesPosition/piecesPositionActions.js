@@ -1,0 +1,1 @@
+import {JUMP, SLIDE} from "./piecesPositionTypes"
